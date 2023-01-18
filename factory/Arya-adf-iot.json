@@ -1,0 +1,9 @@
+{
+	"name": "Arya-adf-iot",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "233f389d-0c71-44f4-a04a-84b89f82dd8b",
+		"tenantId": "e525031f-bb1f-4659-aa0e-c0f3fbfa832f"
+	}
+}
